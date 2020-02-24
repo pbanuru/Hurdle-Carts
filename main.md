@@ -6,4 +6,4 @@ My team members:
 - Brandon Lindner
 - and me, Pranav Banuru
 
-!image[image1.jpg]
+![](images/image1.jpg =25x)
