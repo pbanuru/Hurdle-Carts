@@ -24,4 +24,13 @@ Pictures:
 - Each cart holds 8 Hurdles, 10 Carts, for 80 hurdles used in races.
 - General design was found online but modified for a wood build.
   
-<img src = "images/2.1.jpg" height=auto width=30%/> <img src = "images/2.2.jpg" height=auto width=44%/>  
+<img src = "images/2.1.jpg" height=auto width=30%/> <img src = "images/2.2.jpg" height=auto width=44%/> 
+
+## Our Target Organization and Goal
+- Merrill F. West High School Track & Field Team
+  - for the hurdlers and the rest of the team for tightly scheduled meets.
+- Make transporting hurdles much easier and faster
+- To be stored under WHS bleachers.
+  
+  <img src = "images/3.1.jpg" height=auto width=35%/> <img src = "images/3.2.jpg" height=auto width=44%/> 
+  
