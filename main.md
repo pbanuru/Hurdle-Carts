@@ -39,17 +39,17 @@ Pictures:
 Cost of everything that is physically part of the hurdle.  
 This excludes items such as blue tape and sandpaper, among others.
 
-<img src = "images/4.1.jpg" height=auto width=100%/>
+<img src = "images/4.1.jpg" height=auto width=80%/>
  
 ~ $1091 for 10 hurdle carts or ~$109 per cart.  
 Fairly accurate estimate, but it depends on the amount of wood filler used to smooth out the wood per cart.
 
 ## Full Materials Costs
 
-Total cost:
-<img src = "images/5.1.jpg" height=auto width=100%>
-continued:
-<img src = "images/6.1.jpg" height=auto width=100%>
+Total cost:  
+<img src = "images/5.1.jpg" height=auto width=70%>  
+continued:  
+<img src = "images/6.1.jpg" height=auto width=70%>
 
 In total, this project would have costed us ~$1450 without donations, which we are very thankful for.
 
@@ -57,4 +57,4 @@ The price us four put in, in total, was $1200.
 
 ## Funding/Spending
 
-<img src = "images/7.1.jpg" height=auto width=100%>
+<img src = "images/7.1.jpg" height=auto width=70%>
