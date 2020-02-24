@@ -6,6 +6,10 @@ My team members:
 - Brandon Lindner
 - and me, Pranav Banuru
 
+Jump:  
+[Project Concept](#project-concept)  
+[Target Organization/Goal](#our-target-organization-and-goal)
+
 Side Note: This will have some powerpoint slides included due to the nice formatting.
 
 Pictures:
