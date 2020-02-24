@@ -105,5 +105,17 @@ Having a sort of map helped us build successfully.
 When not meeting in real life, we communicated primarily through Snapchat.
 
 Here, we used Snapchat's drawing feature to plan.  
-We thought about how to make our hurdle rack easier to store and move.
+
+  **Example Question:** How to make the handle easier to move and store compactly.
+
+## Comparison
+### CREO (Version 49) --> Real
+<img src = "images/11.1.png" height = auto width = 40% >
+
+<img src = "images/11.2.jpg" height = auto width = 38% >
+
+## Progression ~ Prototyping
+
+<img src = "images/12.1.png" height = auto width =80%>
+
 
