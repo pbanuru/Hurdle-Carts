@@ -69,17 +69,37 @@ The price us four put in, in total, was $1200.
 - All wood parts except for the two primary layers were sanded and stained before construction
   
     - Two layers were sanded, built, then stained as a whole
-    - Heaters and fans used to speed up drying
+    - Heaters and fans used to speed up drying  
+  <br><br>
 - Putty used to cover the drill holes, then sanded and repainted
 - Entire wood frame, excluding the handle and handle braces built before adding wheels
 - Two wood beams added, a horizontal to brace the handle beams and another to support plywood
-- Metal angle braces drilled to align the white vertical supports
+- Metal angle braces drilled to align the white vertical supports  
+<br><br>
 - Initially, the Wolfpack and West High stickers were printed then lacquered onto the plywood
     - Lacquer produced a brown tint after drying, so we replaced the plywood with banners.
     - Banners were printed and drilled onto the plywood
-    - Easily replaceable and more resistant to damages, ie. water and scratching
+    - Easily replaceable and more resistant to damages, ie. water and scratching  
+  <br><br>
 - Bedliner sprayed on the bottom layer to prevent scratches from the hurdle edges
 - Bolts holding the swiveling tires were ground with an angle grinder to prevent hitting the axle
 - Touching up included puttying rough surfaces, sanding and repainting, and cleaning
 
+## CREO Drawing
+Prior to building, we created 3D models of our cart design for planning.   
+
+At the time, I was at science camp, so I fully owe my teammates for this art.
+
+Having a sort of map helped us build successfully.
+
+<img src = "images/9.1.jpg" height = auto width = 70%>
+
+## Brainstorming
+
+<img src = "images/10.1.png" height = auto width = 80%>
+
+When not meeting in real life, we communicated primarily through Snapchat.
+
+Here, we used Snapchat's drawing feature to plan.  
+We thought about how to make our hurdle rack easier to store and move.
 
