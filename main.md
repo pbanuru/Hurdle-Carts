@@ -1,5 +1,6 @@
 # Space and Engineering Academy Senior Project
 ## Hurdle Carts
+##### [Prefer a slideshow?](Slideshow.md)   
 My team members:
 - Qudsi Aljabiri
 - Brandon Lindner
@@ -12,13 +13,29 @@ My team members:
 Jump:  
 [Project Concept](#project-concept)  
 [Target Organization/Goal](#our-target-organization-and-goal)   
-[Raw Materials/Costs](#raw-materials-costs)
-
-
-Side Note: **Some** of the text below is from our powerpoint.
+[Raw Materials/Costs](#raw-materials-costs)   
+[Full Materials/Costs](#full-materials-costs)   
+[Project Details](#details)   
+[CREO Drawing](#creo-drawing)    
+[Brainstorming](#brainstorming)   
+[CREO vs Reality Comparison](#comparison)   
+[Prototyping](#progression--prototyping)   
+[First Batch of Wood](#first-batch-of-wood)   
+[Measuring and Cutting Wood](#progression--measuring-and-cutting-wood)   
+[Sanding and Staining](#progression--sanding-and-staining)   
+[Construction](#progression--construction)   
+[Putty &rarr; Re-Stain](#putty--re-stain)   
+[Touching Up / Bedliner](#progression--touching-up--bedliner)   
+[Touching Up → Bolt Grinding](#touching-up--bolt-grinding)   
+[Storage](#storage)   
+[Hours Spent](#hours-spent)   
+[Delivery](#delivery)   
+[What we improved and why](#what-we-improved-and-why)   
+[Advice / Recommendations](#advice--recommendations)   
+[Impact](#impact)   
+[Group Picture]()
 
 Pictures:
-
 
 <br>
 <img src = "images/1.1.jpg" height=auto width=37%/> <img src = "images/1.2.jpg" height=auto width=37%/>
@@ -212,7 +229,7 @@ Wood shrinks after drying, so we waited to avoid sizing inaccuracies.
 
 <img src = "images/18.1.png" height =auto width =80%>
 
-# Putty -> Re-Stain
+# Putty &rarr; Re-Stain
 Puttying rough spots in the wood and covering screws to make a water tight seal.  
 
  After filling areas, we leave the putty to dry and re-stain with blue or white stain.
@@ -284,7 +301,7 @@ This allowed us to test the durability of the carts.
   >- Less stress on the front joint
   >- Easier to pull
   >- Puts user further away from the cart
-### 1.  2” x 4” Handle → Dowel
+### 2.  2” x 4” Handle → Dowel
   >- Lesser risk of splinters
   >- Easier to pull
 ### 3.  Constrain Plate Removal
@@ -343,4 +360,5 @@ Mr. TJ Williams, the Head Coach for WHS Track and Field:
 
 <img src= "images/31.1.jpg">
 
+[Return to Top!](#space-and-engineering-academy-senior-project)
 
