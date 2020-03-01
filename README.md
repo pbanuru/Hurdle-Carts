@@ -8,7 +8,7 @@ Made for Merrill F. West High School's Track & Field Team
 
 [Read More](main.md)
 
-<img src = "images/1.2.jpg" height=auto width=80%/>
+<img src = "images/1.2.jpg" height=auto width=50%/>
 
 
 
