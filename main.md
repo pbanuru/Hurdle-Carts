@@ -1,6 +1,6 @@
 # Space and Engineering Academy Senior Project
 ## Hurdle Carts
-##### [Prefer a slideshow?](slideshow.md)   
+##### [Prefer a slideshow?](Slideshow.md)   
 My team members:
 - Qudsi Aljabiri
 - Brandon Lindner
