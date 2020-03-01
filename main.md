@@ -1,6 +1,6 @@
 # Space and Engineering Academy Senior Project
 ## Hurdle Carts
-##### [Prefer a slideshow?](Slideshow.md)   
+##### [Prefer a slideshow?](slideshow.md)   
 My team members:
 - Qudsi Aljabiri
 - Brandon Lindner
@@ -352,7 +352,7 @@ The track team has been using these carts for the past month (since January 27th
 We are really glad our project will continue to have a positive impact.
 
 <video width=130 height=240 controls>
-<source src="vid.mov"> 
+<source src="images/vid.mov"> 
 </video>   
 
 Mr. TJ Williams, the Head Coach for WHS Track and Field:
