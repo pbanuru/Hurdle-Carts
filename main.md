@@ -5,7 +5,7 @@ My team members:
 - Qudsi Aljabiri
 - Brandon Lindner
 - Wentinn Liao
-- and me, Pranav Banuru
+- Pranav Banuru
 
 <img src= "images/31.2.jpg" height=auto width = 90%>
   
