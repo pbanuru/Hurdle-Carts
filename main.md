@@ -286,7 +286,6 @@ Prep &darr; refers to CREO Designs, prototyping, and other preparation activitie
 <img src = "images/26.1.png" height = auto width = 95%>
 
 We walked these 10 carts to West high.   
-(I am the fourth person, in the very back, by the way)
 >- Walked to West High
 >- Walked back
 >- Walked to West High again
