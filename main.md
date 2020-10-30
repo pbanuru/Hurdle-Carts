@@ -33,7 +33,7 @@ Jump:
 [What we improved and why](#what-we-improved-and-why)   
 [Advice / Recommendations](#advice--recommendations)   
 [Impact](#impact)   
-[Group Picture]()
+[Group Picture](#Picture!-📸)
 
 Pictures:
 
@@ -356,6 +356,8 @@ We are really glad our project will continue to have a positive impact.
 
 Mr. TJ Williams, the Head Coach for WHS Track and Field:
 > "This has gotta be the best project ever done by any [SEA] kids"
+
+# Picture! 📸
 
 <img src= "images/31.1.jpg">
 
