@@ -33,7 +33,7 @@ Jump:
 [What we improved and why](#what-we-improved-and-why)   
 [Advice / Recommendations](#advice--recommendations)   
 [Impact](#impact)   
-[Group Picture](#Picture!-📸)
+[Group Picture](#picture-)
 
 Pictures:
 
